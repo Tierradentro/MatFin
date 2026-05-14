@@ -141,7 +141,10 @@ La Sesion 2 se enfoca en COMPRA DE INSUMOS Y SERVICIOS EN EL EXTRANJERO y VENTA/
 Categorias: importacion_insumos, importacion_servicios, logistica_internacional, comercializacion_exportacion, financiamiento_exterior.
 Para cada categoria genera exactamente 2 opciones (total 10 opciones).
 Nombra la primera opcion de cada categoria "[Descripcion] Estandar" (menor costo, impacto moderado) y la segunda "[Descripcion] Avanzada" (mayor costo, mayor impacto).
-Los costos deben estar en miles de USD. Considera riesgo cambiario, costos de importacion, aranceles, y logistica internacional.
+MUY IMPORTANTE: Los costos (initialCost) deben estar en MILES DE DOLARES USD. Los valores deben ser PEQUENOS (entre 0.5 y 2.0).
+Ejemplo de valores correctos: 0.8, 1.2, 1.5, 0.6, 0.9 (miles USD).
+NO uses valores grandes como 100, 200, 300 — esos serian pesos colombianos (COP).
+Considera riesgo cambiario, costos de importacion, aranceles, y logistica internacional.
 Impacto ESG entre -0.05 y 0.05. Nivel de riesgo (bajo/medio/alto).
 Responde SOLO en el formato JSON Schema solicitado.`;
         } else if (input.session === 3) {
