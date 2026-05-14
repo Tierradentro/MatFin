@@ -17,6 +17,7 @@ export default function StudentPage() {
   const [status, setStatus] = useState<any>(null)
   const [operationalDecisions, setOperationalDecisions] = useState<Record<string, string>>({})
   const [operationalOptions, setOperationalOptions] = useState<OperationalOption[]>([])
+  const [operationalCurrency, setOperationalCurrency] = useState<string>('COP')
   const [financingOptions, setFinancingOptions] = useState<FinancingOption[]>([])
   const [selectedFinancing, setSelectedFinancing] = useState<string>('')
   const [financingError, setFinancingError] = useState('')
@@ -99,6 +100,9 @@ export default function StudentPage() {
       console.log('[AUDIT] getOperationalNeeds returned', data?.length || 0, 'options')
       if (data && data.length > 0) {
         setOperationalOptions(data)
+        // Currency is USD for S2, COP for S1/S3
+        const session = explicitStatus?.session || status?.session || 1
+        setOperationalCurrency(session === 2 ? 'USD' : 'COP')
         setOperationalDecisions({})
         setOperationalError('')
       } else {
@@ -472,7 +476,7 @@ export default function StudentPage() {
                     <span className="text-sm text-amber-800">Capital propio disponible:</span>
                   </div>
                   <div className="flex items-center gap-3">
-                    <span className="text-xl font-bold text-amber-900 font-mono">${getOwnCapital()}M {status?.session === 2 ? '(USD)' : 'COP'}</span>
+                    <span className="text-xl font-bold text-amber-900 font-mono">${getOwnCapital()}M {operationalCurrency === 'USD' ? '(USD)' : 'COP'}</span>
                     <Button
                       variant="outline"
                       size="sm"
@@ -532,7 +536,7 @@ export default function StudentPage() {
                         <h4 className="font-medium text-slate-900">{opt.name}</h4>
                         <p className="text-xs text-slate-600 mt-1">{opt.description}</p>
                         <div className="grid grid-cols-2 gap-2 mt-3 text-xs">
-                          <span className="text-slate-500">Costo: ${opt.initialCost}M {status?.session === 2 ? '(USD)' : 'COP'}</span>
+                          <span className="text-slate-500">Costo: ${opt.initialCost}M {operationalCurrency === 'USD' ? '(USD)' : 'COP'}</span>
                           <span className="text-slate-500">Ingreso: {(opt.revenueImpact * 100).toFixed(1)}%</span>
                           <span className="text-slate-500">Costo Op: {(opt.costImpact * 100).toFixed(1)}%</span>
                           <span className="text-slate-500">ESG: {opt.esgImpact > 0 ? '+' : ''}{opt.esgImpact}</span>
