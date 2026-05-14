@@ -1,0 +1,28 @@
+{
+  "currentSession": 1,
+  "currentRound": 1,
+  "maxRoundsPerSession": 3,
+  "activeGroups": [
+    {
+      "groupNumber": "1",
+      "currentSession": 3,
+      "currentRound": 1,
+      "accumulatedScore": 8.3,
+      "lastActionAt": "2026-05-12T04:21:36.375Z"
+    },
+    {
+      "groupNumber": "2",
+      "currentSession": 3,
+      "currentRound": 1,
+      "accumulatedScore": 5.5,
+      "lastActionAt": "2026-05-14T03:51:19.149Z"
+    },
+    {
+      "groupNumber": "3",
+      "currentSession": 2,
+      "currentRound": 1,
+      "accumulatedScore": 5.5,
+      "lastActionAt": "2026-05-14T03:59:25.595Z"
+    }
+  ]
+}

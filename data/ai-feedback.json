@@ -1,0 +1,282 @@
+[
+  {
+    "id": "1-1-1-1778374001939",
+    "groupNumber": "1",
+    "session": 1,
+    "round": 1,
+    "evaluacion_general": "Excelente analisis financiero para la sesion 1. Los indicadores muestran viabilidad del proyecto.",
+    "aciertos": [
+      "Uso correcto de la tasa de descuento del entorno colombiano",
+      "Identificacion de componentes de costos e ingresos",
+      "Consideracion de variables macroeconomicas (inflacion, devaluacion)"
+    ],
+    "errores_probables": [
+      "Podria fortalecer el analisis de sensibilidad a cambios en tasas"
+    ],
+    "recomendaciones": [
+      "Revisar el spread del sector contra DTF e IBR",
+      "Incluir escenario pesimista con subida de tasas",
+      "Verificar amortizacion de la financiacion elegida"
+    ],
+    "advertencias": [
+      "El entorno macroeconomico de sesion 3 puede deteriorar los indicadores",
+      "Riesgo ESG no cuantificado completamente en los costos"
+    ],
+    "puntaje": 8,
+    "siguiente_accion": "Avanza a la siguiente sesion y ajusta las decisiones operativas segun las recomendaciones.",
+    "createdAt": "2026-05-10T00:46:42.810Z"
+  },
+  {
+    "id": "1-1-2-1778374096223",
+    "groupNumber": "1",
+    "session": 1,
+    "round": 2,
+    "evaluacion_general": "Excelente analisis financiero para la sesion 1. Los indicadores muestran viabilidad del proyecto.",
+    "aciertos": [
+      "Uso correcto de la tasa de descuento del entorno colombiano",
+      "Identificacion de componentes de costos e ingresos",
+      "Consideracion de variables macroeconomicas (inflacion, devaluacion)"
+    ],
+    "errores_probables": [
+      "Podria fortalecer el analisis de sensibilidad a cambios en tasas"
+    ],
+    "recomendaciones": [
+      "Revisar el spread del sector contra DTF e IBR",
+      "Incluir escenario pesimista con subida de tasas",
+      "Verificar amortizacion de la financiacion elegida"
+    ],
+    "advertencias": [
+      "El entorno macroeconomico de sesion 3 puede deteriorar los indicadores",
+      "Riesgo ESG no cuantificado completamente en los costos"
+    ],
+    "puntaje": 8.5,
+    "siguiente_accion": "Avanza a la siguiente sesion y ajusta las decisiones operativas segun las recomendaciones.",
+    "createdAt": "2026-05-10T00:48:17.532Z"
+  },
+  {
+    "id": "1-1-3-1778558677428",
+    "groupNumber": "1",
+    "session": 1,
+    "round": 3,
+    "evaluacion_general": "Excelente analisis financiero para la sesion 1. Los indicadores muestran viabilidad del proyecto.",
+    "aciertos": [
+      "Uso correcto de la tasa de descuento del entorno colombiano",
+      "Identificacion de componentes de costos e ingresos",
+      "Consideracion de variables macroeconomicas (inflacion, devaluacion)"
+    ],
+    "errores_probables": [
+      "Podria fortalecer el analisis de sensibilidad a cambios en tasas"
+    ],
+    "recomendaciones": [
+      "Revisar el spread del sector contra DTF e IBR",
+      "Incluir escenario pesimista con subida de tasas",
+      "Verificar amortizacion de la financiacion elegida"
+    ],
+    "advertencias": [
+      "El entorno macroeconomico de sesion 3 puede deteriorar los indicadores",
+      "Riesgo ESG no cuantificado completamente en los costos"
+    ],
+    "puntaje": 9,
+    "siguiente_accion": "Avanza a la siguiente sesion y ajusta las decisiones operativas segun las recomendaciones.",
+    "createdAt": "2026-05-12T04:04:38.051Z"
+  },
+  {
+    "id": "1-2-1-1778558734677",
+    "groupNumber": "1",
+    "session": 2,
+    "round": 1,
+    "evaluacion_general": "Excelente analisis financiero para la sesion 2. Los indicadores muestran viabilidad del proyecto.",
+    "aciertos": [
+      "Uso correcto de la tasa de descuento del entorno colombiano",
+      "Identificacion de componentes de costos e ingresos",
+      "Consideracion de variables macroeconomicas (inflacion, devaluacion)"
+    ],
+    "errores_probables": [
+      "Podria fortalecer el analisis de sensibilidad a cambios en tasas"
+    ],
+    "recomendaciones": [
+      "Revisar el spread del sector contra DTF e IBR",
+      "Incluir escenario pesimista con subida de tasas",
+      "Verificar amortizacion de la financiacion elegida"
+    ],
+    "advertencias": [
+      "El entorno macroeconomico de sesion 3 puede deteriorar los indicadores",
+      "Riesgo ESG no cuantificado completamente en los costos"
+    ],
+    "puntaje": 8,
+    "siguiente_accion": "Avanza a la siguiente sesion y ajusta las decisiones operativas segun las recomendaciones.",
+    "createdAt": "2026-05-12T04:05:35.412Z"
+  },
+  {
+    "id": "1-2-1-1778559696360",
+    "groupNumber": "1",
+    "session": 2,
+    "round": 1,
+    "evaluacion_general": "Excelente analisis financiero para la sesion 2. Los indicadores muestran viabilidad del proyecto.",
+    "aciertos": [
+      "Uso correcto de la tasa de descuento del entorno colombiano",
+      "Identificacion de componentes de costos e ingresos",
+      "Consideracion de variables macroeconomicas (inflacion, devaluacion)"
+    ],
+    "errores_probables": [
+      "Podria fortalecer el analisis de sensibilidad a cambios en tasas"
+    ],
+    "recomendaciones": [
+      "Revisar el spread del sector contra DTF e IBR",
+      "Incluir escenario pesimista con subida de tasas",
+      "Verificar amortizacion de la financiacion elegida"
+    ],
+    "advertencias": [
+      "El entorno macroeconomico de sesion 3 puede deteriorar los indicadores",
+      "Riesgo ESG no cuantificado completamente en los costos"
+    ],
+    "puntaje": 8,
+    "siguiente_accion": "Avanza a la siguiente sesion y ajusta las decisiones operativas segun las recomendaciones.",
+    "createdAt": "2026-05-12T04:21:37.107Z"
+  },
+  {
+    "id": "2-1-1-1778726172631",
+    "groupNumber": "2",
+    "session": 1,
+    "round": 1,
+    "evaluacion_general": "Analisis aceptable para sesion 1. El proyecto es marginalmente viable pero requiere ajustes.",
+    "aciertos": [
+      "Uso correcto de la tasa de descuento del entorno colombiano",
+      "Identificacion de componentes de costos e ingresos",
+      "Consideracion de variables macroeconomicas (inflacion, devaluacion)"
+    ],
+    "errores_probables": [
+      "Posible omision del efecto devaluacion en costos USD",
+      "TIR podria no considerar reinversion de flujos",
+      "B/C puede estar sesgado si no se incluyeron costos ESG completos"
+    ],
+    "recomendaciones": [
+      "Revisar el spread del sector contra DTF e IBR",
+      "Incluir escenario pesimista con subida de tasas",
+      "Verificar amortizacion de la financiacion elegida"
+    ],
+    "advertencias": [
+      "El entorno macroeconomico de sesion 3 puede deteriorar los indicadores",
+      "Riesgo ESG no cuantificado completamente en los costos"
+    ],
+    "puntaje": 5.5,
+    "siguiente_accion": "Avanza a la siguiente sesion y ajusta las decisiones operativas segun las recomendaciones.",
+    "createdAt": "2026-05-14T02:36:13.361Z"
+  },
+  {
+    "id": "2-2-1-1778726230427",
+    "groupNumber": "2",
+    "session": 2,
+    "round": 1,
+    "evaluacion_general": "Analisis aceptable para sesion 2. El proyecto es marginalmente viable pero requiere ajustes.",
+    "aciertos": [
+      "Uso correcto de la tasa de descuento del entorno colombiano",
+      "Identificacion de componentes de costos e ingresos",
+      "Consideracion de variables macroeconomicas (inflacion, devaluacion)"
+    ],
+    "errores_probables": [
+      "Posible omision del efecto devaluacion en costos USD",
+      "TIR podria no considerar reinversion de flujos",
+      "B/C puede estar sesgado si no se incluyeron costos ESG completos"
+    ],
+    "recomendaciones": [
+      "Revisar el spread del sector contra DTF e IBR",
+      "Incluir escenario pesimista con subida de tasas",
+      "Verificar amortizacion de la financiacion elegida"
+    ],
+    "advertencias": [
+      "El entorno macroeconomico de sesion 3 puede deteriorar los indicadores",
+      "Riesgo ESG no cuantificado completamente en los costos"
+    ],
+    "puntaje": 5.5,
+    "siguiente_accion": "Avanza a la siguiente sesion y ajusta las decisiones operativas segun las recomendaciones.",
+    "createdAt": "2026-05-14T02:37:11.171Z"
+  },
+  {
+    "id": "2-3-1-1778726286741",
+    "groupNumber": "2",
+    "session": 3,
+    "round": 1,
+    "evaluacion_general": "Analisis aceptable para sesion 3. El proyecto es marginalmente viable pero requiere ajustes.",
+    "aciertos": [
+      "Uso correcto de la tasa de descuento del entorno colombiano",
+      "Identificacion de componentes de costos e ingresos",
+      "Consideracion de variables macroeconomicas (inflacion, devaluacion)"
+    ],
+    "errores_probables": [
+      "Posible omision del efecto devaluacion en costos USD",
+      "TIR podria no considerar reinversion de flujos",
+      "B/C puede estar sesgado si no se incluyeron costos ESG completos"
+    ],
+    "recomendaciones": [
+      "Revisar el spread del sector contra DTF e IBR",
+      "Incluir escenario pesimista con subida de tasas",
+      "Verificar amortizacion de la financiacion elegida"
+    ],
+    "advertencias": [
+      "El entorno macroeconomico de sesion 3 puede deteriorar los indicadores",
+      "Riesgo ESG no cuantificado completamente en los costos"
+    ],
+    "puntaje": 5.5,
+    "siguiente_accion": "Revisa el consolidado de las 3 sesiones y prepara la presentacion final.",
+    "createdAt": "2026-05-14T02:38:07.358Z"
+  },
+  {
+    "id": "2-3-1-1778730679136",
+    "groupNumber": "2",
+    "session": 3,
+    "round": 1,
+    "evaluacion_general": "Analisis aceptable para sesion 3. El proyecto es marginalmente viable pero requiere ajustes.",
+    "aciertos": [
+      "Uso correcto de la tasa de descuento del entorno colombiano",
+      "Identificacion de componentes de costos e ingresos",
+      "Consideracion de variables macroeconomicas (inflacion, devaluacion)"
+    ],
+    "errores_probables": [
+      "Posible omision del efecto devaluacion en costos USD",
+      "TIR podria no considerar reinversion de flujos",
+      "B/C puede estar sesgado si no se incluyeron costos ESG completos"
+    ],
+    "recomendaciones": [
+      "Revisar el spread del sector contra DTF e IBR",
+      "Incluir escenario pesimista con subida de tasas",
+      "Verificar amortizacion de la financiacion elegida"
+    ],
+    "advertencias": [
+      "El entorno macroeconomico de sesion 3 puede deteriorar los indicadores",
+      "Riesgo ESG no cuantificado completamente en los costos"
+    ],
+    "puntaje": 5.5,
+    "siguiente_accion": "Revisa el consolidado de las 3 sesiones y prepara la presentacion final.",
+    "createdAt": "2026-05-14T03:51:19.811Z"
+  },
+  {
+    "id": "3-1-1-1778731165581",
+    "groupNumber": "3",
+    "session": 1,
+    "round": 1,
+    "evaluacion_general": "Analisis aceptable para sesion 1. El proyecto es marginalmente viable pero requiere ajustes.",
+    "aciertos": [
+      "Uso correcto de la tasa de descuento del entorno colombiano",
+      "Identificacion de componentes de costos e ingresos",
+      "Consideracion de variables macroeconomicas (inflacion, devaluacion)"
+    ],
+    "errores_probables": [
+      "Posible omision del efecto devaluacion en costos USD",
+      "TIR podria no considerar reinversion de flujos",
+      "B/C puede estar sesgado si no se incluyeron costos ESG completos"
+    ],
+    "recomendaciones": [
+      "Revisar el spread del sector contra DTF e IBR",
+      "Incluir escenario pesimista con subida de tasas",
+      "Verificar amortizacion de la financiacion elegida"
+    ],
+    "advertencias": [
+      "El entorno macroeconomico de sesion 3 puede deteriorar los indicadores",
+      "Riesgo ESG no cuantificado completamente en los costos"
+    ],
+    "puntaje": 5.5,
+    "siguiente_accion": "Avanza a la siguiente sesion y ajusta las decisiones operativas segun las recomendaciones.",
+    "createdAt": "2026-05-14T03:59:26.385Z"
+  }
+]

@@ -1,0 +1,215 @@
+[
+  {
+    "id": "1-1-1-1778374001939",
+    "groupNumber": "1",
+    "session": 1,
+    "round": 1,
+    "vpn": 55000,
+    "tir": 19,
+    "bc": 2.1,
+    "comment": "",
+    "operationalDecisions": {
+      "materia_prima": "materia_prima-1-1",
+      "recursos": "recursos-1-1",
+      "inmobiliario": "inmobiliario-1-1",
+      "maquinaria": "maquinaria-1-1"
+    },
+    "financingOptionId": "ibr-spread",
+    "submittedAt": "2026-05-10T00:46:41.939Z"
+  },
+  {
+    "id": "1-1-2-1778374096223",
+    "groupNumber": "1",
+    "session": 1,
+    "round": 2,
+    "vpn": 34000,
+    "tir": 17,
+    "bc": 1.9,
+    "comment": "",
+    "operationalDecisions": {
+      "maquinaria": "maquinaria-1-2",
+      "materia_prima": "materia_prima-1-1",
+      "recursos": "recursos-1-2"
+    },
+    "financingOptionId": "dtf-spread",
+    "submittedAt": "2026-05-10T00:48:16.223Z"
+  },
+  {
+    "id": "1-1-3-1778385215166",
+    "groupNumber": "1",
+    "session": 1,
+    "round": 3,
+    "vpn": 35000,
+    "tir": 14,
+    "bc": 1.5,
+    "comment": "",
+    "operationalDecisions": {
+      "maquinaria": "maquinaria-1-1",
+      "materia_prima": "materia_prima-1-1",
+      "inmobiliario": "inmobiliario-1-2"
+    },
+    "financingOptionId": "ibr-spread",
+    "submittedAt": "2026-05-10T03:53:35.166Z"
+  },
+  {
+    "id": "1-1-3-1778558677428",
+    "groupNumber": "1",
+    "session": 1,
+    "round": 3,
+    "vpn": 12,
+    "tir": 12,
+    "bc": 1.2,
+    "comment": "fdsf",
+    "operationalDecisions": {
+      "maquinaria": "maquinaria-1-1",
+      "materia_prima": "materia_prima-1-1",
+      "recursos": "recursos-1-1",
+      "inmobiliario": "inmobiliario-1-1"
+    },
+    "financingOptionId": "dtf-spread",
+    "submittedAt": "2026-05-12T04:04:37.428Z",
+    "isFinal": true
+  },
+  {
+    "id": "1-2-1-1778558734677",
+    "groupNumber": "1",
+    "session": 2,
+    "round": 1,
+    "vpn": 12,
+    "tir": 12,
+    "bc": 1.2,
+    "comment": "",
+    "operationalDecisions": {
+      "importacion_insumos": "importacion_insumos-2-1",
+      "importacion_servicios": "importacion_servicios-2-1",
+      "logistica_internacional": "logistica_internacional-2-1",
+      "financiamiento_exterior": "financiamiento_exterior-2-1"
+    },
+    "financingOptionId": "sofr-spread",
+    "submittedAt": "2026-05-12T04:05:34.677Z"
+  },
+  {
+    "id": "1-1-1-1778559136283",
+    "groupNumber": "1",
+    "session": 1,
+    "round": 1,
+    "vpn": 100,
+    "tir": 15,
+    "bc": 1.5,
+    "comment": "Test S1",
+    "operationalDecisions": {},
+    "financingOptionId": "",
+    "submittedAt": "2026-05-12T04:12:16.283Z"
+  },
+  {
+    "id": "1-2-1-1778559696360",
+    "groupNumber": "1",
+    "session": 2,
+    "round": 1,
+    "vpn": 12,
+    "tir": 12,
+    "bc": 1.8,
+    "comment": "",
+    "operationalDecisions": {
+      "importacion_insumos": "importacion_insumos-2-1",
+      "importacion_servicios": "importacion_servicios-2-1",
+      "financiamiento_exterior": "financiamiento_exterior-2-1"
+    },
+    "financingOptionId": "dtf-spread",
+    "submittedAt": "2026-05-12T04:21:36.360Z",
+    "isFinal": true
+  },
+  {
+    "id": "2-1-1-1778726172631",
+    "groupNumber": "2",
+    "session": 1,
+    "round": 1,
+    "vpn": 450,
+    "tir": 11,
+    "bc": 1,
+    "comment": "",
+    "operationalDecisions": {
+      "maquinaria": "maquinaria-1-1",
+      "recursos": "recursos-1-1",
+      "materia_prima": "materia_prima-1-1"
+    },
+    "financingOptionId": "ibr-spread",
+    "submittedAt": "2026-05-14T02:36:12.631Z",
+    "isFinal": true
+  },
+  {
+    "id": "2-2-1-1778726230427",
+    "groupNumber": "2",
+    "session": 2,
+    "round": 1,
+    "vpn": 3000,
+    "tir": 12,
+    "bc": 1,
+    "comment": "",
+    "operationalDecisions": {
+      "importacion_insumos": "importacion_insumos-2-1",
+      "logistica_internacional": "logistica_internacional-2-1",
+      "comercializacion_exportacion": "comercializacion_exportacion-2-2",
+      "financiamiento_exterior": "financiamiento_exterior-2-2"
+    },
+    "financingOptionId": "sofr-spread",
+    "submittedAt": "2026-05-14T02:37:10.427Z",
+    "isFinal": true
+  },
+  {
+    "id": "2-3-1-1778726286741",
+    "groupNumber": "2",
+    "session": 3,
+    "round": 1,
+    "vpn": 2000,
+    "tir": 14,
+    "bc": 1,
+    "comment": "",
+    "operationalDecisions": {
+      "energia_renovable": "energia_renovable-3-1",
+      "gestion_residuos": "gestion_residuos-3-1",
+      "huella_carbono": "huella_carbono-3-2",
+      "gobernanza_esg": "gobernanza_esg-3-1"
+    },
+    "financingOptionId": "ibr-spread",
+    "submittedAt": "2026-05-14T02:38:06.741Z",
+    "isFinal": true
+  },
+  {
+    "id": "2-3-1-1778730679136",
+    "groupNumber": "2",
+    "session": 3,
+    "round": 1,
+    "vpn": 3000,
+    "tir": 11,
+    "bc": 1,
+    "comment": "",
+    "operationalDecisions": {
+      "energia_renovable": "energia_renovable-3-1",
+      "gestion_residuos": "gestion_residuos-3-1",
+      "biodiversidad": "biodiversidad-3-2",
+      "huella_carbono": "huella_carbono-3-1"
+    },
+    "financingOptionId": "dtf-spread",
+    "submittedAt": "2026-05-14T03:51:19.136Z"
+  },
+  {
+    "id": "3-1-1-1778731165581",
+    "groupNumber": "3",
+    "session": 1,
+    "round": 1,
+    "vpn": 3000,
+    "tir": 11,
+    "bc": 1,
+    "comment": "",
+    "operationalDecisions": {
+      "maquinaria": "maquinaria-1-1",
+      "recursos": "recursos-1-1",
+      "materia_prima": "materia_prima-1-1",
+      "inmobiliario": "inmobiliario-1-1"
+    },
+    "financingOptionId": "uvr-credit",
+    "submittedAt": "2026-05-14T03:59:25.581Z",
+    "isFinal": true
+  }
+]

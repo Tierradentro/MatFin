@@ -1,0 +1,7 @@
+{
+  "apiKey": "",
+  "model": "gpt-4o",
+  "systemPrompt": "",
+  "baseUrl": "https://api.openai.com/v1",
+  "demoMode": true
+}

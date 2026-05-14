@@ -1,0 +1,12 @@
+[
+  {
+    "action": "RESET_SIMULATION",
+    "details": "{\"keepProjects\":false,\"keepAdminSettings\":false}",
+    "timestamp": "2026-05-07T05:43:15.396Z"
+  },
+  {
+    "action": "UPLOAD_PROJECTS",
+    "details": "15 projects uploaded",
+    "timestamp": "2026-05-07T13:46:28.308Z"
+  }
+]
